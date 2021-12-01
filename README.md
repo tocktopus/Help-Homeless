@@ -11,6 +11,8 @@ Sara Beatriz da Silva Oliveira
 
 3º Informática
 
+<hr>
+
 <img src="https://i.imgur.com/JOu3P4f.png">
 
 
