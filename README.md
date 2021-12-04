@@ -1,7 +1,7 @@
 # Help-Homeless
 Trabalho de LTP - 3º Bimestre
 
-<h2>Arquivos</h2>
+<h2>Projeto Final</h2>
 <ul>
   <li><b>help-homeless-completo:</b> projeto completo do 4º bimestre com integração com o banco de dados.</li>
   <li><b>Trabalho Help Homeless 3 Bimestre CORS:</b> Configuração do CORS na API que foi desenvolvida no terceiro bimestre.</li>
