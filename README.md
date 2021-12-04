@@ -5,6 +5,7 @@ Trabalho de LTP - 3º Bimestre
 <ul>
   <li><b>help-homeless-completo:</b> projeto em Nuxt.js completo, com integração com o banco de dados.</li>
   <li><b>Trabalho Help Homeless 3 Bimestre CORS:</b> Configuração do CORS na API que foi desenvolvida no terceiro bimestre.</li>
+  <li><b>Vídeo de demonstração:</b> https://youtu.be/nHUmG-SnFZo</li>
 </ul>
 
 <br>
